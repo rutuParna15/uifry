@@ -637,7 +637,7 @@ hr:after {
 
 @media (max-width: 1225px){
     .hero{
-        margin-top: 15%;
+        margin-top: 22%;
     }
 
     .strip{
@@ -649,12 +649,12 @@ hr:after {
     }
 
     .hero-img{
-        margin-top: 20%;
+        margin-top: 5%;
     }
 
     .features-gradient{
         left: 40%;
-        top: 2%;
+        top: 0;
     }
 
     .features-gradient img{
@@ -663,7 +663,8 @@ hr:after {
     }
 
     .features-img{
-        margin-top: 10%;
+        /* margin-top: 5%; */
+        margin-bottom: 10%;
     }
 
 }
